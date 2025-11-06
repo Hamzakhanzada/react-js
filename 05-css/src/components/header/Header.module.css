@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+
+nav a {
+ text-decoration: none;
+ color: black;
+}
