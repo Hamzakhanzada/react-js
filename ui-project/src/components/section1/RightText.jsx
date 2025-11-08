@@ -7,6 +7,7 @@ const RightText = (props) => {
     <div className='flex flex-nowrap'>
     {props.users.map(function (elem,indx) {
         return <Card key={indx} img={elem.image} name={elem.name} role={elem.role} des={elem.description}/>
+        
     })}
     </div>
   )
