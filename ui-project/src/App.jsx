@@ -24,7 +24,7 @@ const App = () => {
   },
   {
     id: 3,
-    name: "Michael Brown",
+    name: "Michael",
     role: "Back-End Developer",
     description:
       "Experienced in building robust server-side applications and APIs.",
