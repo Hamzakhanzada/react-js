@@ -27,7 +27,7 @@ const App = () => {
     name: "Michael 1",
     role: "Back-End Developer",
     description:
-      "Experienced in building robust server-side applications and APIs.",
+      "Experienced in building robust server-side applications and API",
     image:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
   },
